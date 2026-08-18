@@ -4,13 +4,13 @@
 
 # Hi, I'm Anmol Agarwal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=CS+undergrad+%40+JIIT+'28;C%2B%2B+competitive+programmer;Building+AI+agents+with+Python;ESP32+tinkerer+on+the+side" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=CS+undergrad+%40+JIIT+'28;C%2B%2B+Competitive+Programmer;Building+AI+agents+with+Python;ESP32+tinkerer+on+the+side" alt="typing banner" />
 
 </div>
 
 ## About me
 
-- **Competitive programmer in C++** — [CP_inventory](https://github.com/iAnmolAgarwal/CP_inventory) is where I keep the algorithms and templates from my CP journey; I'm on [Codeforces](https://codeforces.com/profile/i_anmolagarwal) and [CodeChef](https://www.codechef.com/users/i_anmolagarwal) as `i_anmolagarwal`.
+- **Competitive Programmer in C++** — I'm on [Codeforces](https://codeforces.com/profile/i_anmolagarwal) and [CodeChef](https://www.codechef.com/users/i_anmolagarwal) as `i_anmolagarwal`.
 - **AI agents that are mostly deterministic code around one model call** — [damage-claim-agent](https://github.com/iAnmolAgarwal/damage-claim-agent) verifies damage claims from photos with a vision-language model behind a rule layer and a structural prompt-injection defence; [whatsapp-notification-router](https://github.com/iAnmolAgarwal/whatsapp-notification-router) routes messages to notify / digest / mute across text, image and voice. Both were solo HackerRank Orchestrate submissions that placed **global #63**.
 - **Python systems where correctness matters** — [orb-trader](https://github.com/iAnmolAgarwal/orb-trader), a crash-safe Opening Range Breakout paper-trader for NSE options via Zerodha Kite (software brackets, crash reconciliation, hard risk limits), and [skywatch](https://github.com/iAnmolAgarwal/skywatch), real-time threat detection on ADS-B telemetry with a hybrid rule + ML pipeline and deterministic incident replay.
 - **Hardware and graphics on the side** — [smart-e-nose](https://github.com/iAnmolAgarwal/smart-e-nose), an ESP32 electronic nose for food-spoilage detection with cloud telemetry, and [thwip](https://github.com/iAnmolAgarwal/thwip), a first-person web-swinging game in a procedurally generated comic city built with Three.js — zero assets, everything generated at runtime.
@@ -49,8 +49,8 @@
 ## GitHub stats
 
 <p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iAnmolAgarwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
+<img height="165" src="https://anmol-readme-stats.vercel.app/api?username=iAnmolAgarwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://anmol-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak stats" />
