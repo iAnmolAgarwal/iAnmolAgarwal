@@ -49,11 +49,11 @@
 ## GitHub stats
 
 <p>
-<img height="165" src="https://anmol-readme-stats.vercel.app/api?username=iAnmolAgarwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://anmol-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
+<img height="165" src="https://anmol-readme-stats.vercel.app/api?username=iAnmolAgarwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github&hide=stars,prs,issues" alt="GitHub stats" />
+<img height="165" src="https://anmol-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6&hide=plpgsql" alt="Top languages" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&theme=tokyonight&hide_border=true&background=1a1b27&date_format=M+j%5B%2C+Y%5D" alt="Streak stats" />
 
 ## Contact
 
