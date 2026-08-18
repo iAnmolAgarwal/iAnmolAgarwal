@@ -53,7 +53,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=iAnmolAgarwal&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak stats" />
 
 ## Contact
 
