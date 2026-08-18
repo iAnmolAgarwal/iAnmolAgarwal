@@ -42,7 +42,6 @@ Codeforces Pupil (max 1362) · CodeChef 2★ (max 1565) · 242-day solving strea
 <img src="https://anmol-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&hide_border=true&bg_color=000000&title_color=d9825a&text_color=5fdf5f&langs_count=6&hide=plpgsql" alt="Top languages" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&hide_border=true&background=000000&ring=d9825a&fire=d9825a&currStreakNum=ffffff&currStreakLabel=5fdf5f&sideNums=5fdf5f&sideLabels=9a9a9a&dates=6f6f6f&stroke=3a3a3a&date_format=M+j%5B%2C+Y%5D&card_width=780" alt="Streak stats" />
 
 ## contact `/contact`
 
