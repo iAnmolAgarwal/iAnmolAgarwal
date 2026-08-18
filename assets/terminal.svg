@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="anmol@portfolio — a terminal session: tell me about anmol agarwal">
+<style>
+  .sway { transform-origin: 155px 52px; animation: sway 3.8s ease-in-out infinite; }
+  @keyframes sway { 0%,100% { transform: rotate(-2.5deg) } 50% { transform: rotate(2.5deg) } }
+  .spin { transform-origin: 14px 262px; animation: spin 1.5s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg) } }
+  @media (prefers-reduced-motion: reduce) { .sway, .spin { animation: none } }
+</style>
+<rect width="900" height="380" fill="#000"/>
+<!-- welcome banner -->
+<rect x="8.5" y="14.5" width="883" height="150" rx="3" fill="none" stroke="#d9825a" stroke-dasharray="4 3"/>
+<rect x="18" y="8" width="212" height="13" fill="#000"/>
+<text x="22" y="19" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a">anmol@portfolio <tspan fill="#9a9a9a">v2028.1</tspan></text>
+<line x1="300.5" y1="15" x2="300.5" y2="164" stroke="#d9825a" stroke-dasharray="4 3"/>
+<text x="155" y="45" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#ffffff" font-weight="bold" text-anchor="middle">Welcome, visitor!</text>
+<g class="sway">
+  <line x1="155" y1="52" x2="155" y2="58" stroke="#6f6f6f"/>
+<rect x="145" y="63" width="5" height="5" fill="#a85e40"/>
+<rect x="150" y="63" width="5" height="5" fill="#d9825a"/>
+<rect x="155" y="63" width="5" height="5" fill="#d9825a"/>
+<rect x="160" y="63" width="5" height="5" fill="#a85e40"/>
+<rect x="140" y="68" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="68" width="5" height="5" fill="#a85e40"/>
+<rect x="150" y="68" width="5" height="5" fill="#d9825a"/>
+<rect x="155" y="68" width="5" height="5" fill="#d9825a"/>
+<rect x="160" y="68" width="5" height="5" fill="#a85e40"/>
+<rect x="165" y="68" width="5" height="5" fill="#d9825a"/>
+<rect x="135" y="73" width="5" height="5" fill="#d9825a"/>
+<rect x="140" y="73" width="5" height="5" fill="#a85e40"/>
+<rect x="145" y="73" width="5" height="5" fill="#d9825a"/>
+<rect x="150" y="73" width="5" height="5" fill="#a85e40"/>
+<rect x="155" y="73" width="5" height="5" fill="#a85e40"/>
+<rect x="160" y="73" width="5" height="5" fill="#d9825a"/>
+<rect x="165" y="73" width="5" height="5" fill="#a85e40"/>
+<rect x="170" y="73" width="5" height="5" fill="#d9825a"/>
+<rect x="140" y="78" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="78" width="5" height="5" fill="#a85e40"/>
+<rect x="150" y="78" width="5" height="5" fill="#a85e40"/>
+<rect x="155" y="78" width="5" height="5" fill="#a85e40"/>
+<rect x="160" y="78" width="5" height="5" fill="#a85e40"/>
+<rect x="165" y="78" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="83" width="5" height="5" fill="#d9825a"/>
+<rect x="150" y="83" width="5" height="5" fill="#d9825a"/>
+<rect x="155" y="83" width="5" height="5" fill="#d9825a"/>
+<rect x="160" y="83" width="5" height="5" fill="#d9825a"/>
+<rect x="140" y="88" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="88" width="5" height="5" fill="#ffffff"/>
+<rect x="150" y="88" width="5" height="5" fill="#ffffff"/>
+<rect x="155" y="88" width="5" height="5" fill="#ffffff"/>
+<rect x="160" y="88" width="5" height="5" fill="#ffffff"/>
+<rect x="165" y="88" width="5" height="5" fill="#d9825a"/>
+<rect x="140" y="93" width="5" height="5" fill="#ffffff"/>
+<rect x="145" y="93" width="5" height="5" fill="#000000"/>
+<rect x="150" y="93" width="5" height="5" fill="#ffffff"/>
+<rect x="155" y="93" width="5" height="5" fill="#ffffff"/>
+<rect x="160" y="93" width="5" height="5" fill="#000000"/>
+<rect x="165" y="93" width="5" height="5" fill="#ffffff"/>
+<rect x="130" y="98" width="5" height="5" fill="#d9825a"/>
+<rect x="140" y="98" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="98" width="5" height="5" fill="#ffffff"/>
+<rect x="150" y="98" width="5" height="5" fill="#ffffff"/>
+<rect x="155" y="98" width="5" height="5" fill="#ffffff"/>
+<rect x="160" y="98" width="5" height="5" fill="#ffffff"/>
+<rect x="165" y="98" width="5" height="5" fill="#d9825a"/>
+<rect x="175" y="98" width="5" height="5" fill="#d9825a"/>
+<rect x="125" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="135" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="150" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="155" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="160" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="170" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="180" y="103" width="5" height="5" fill="#d9825a"/>
+<rect x="120" y="108" width="5" height="5" fill="#d9825a"/>
+<rect x="130" y="108" width="5" height="5" fill="#d9825a"/>
+<rect x="145" y="108" width="5" height="5" fill="#d9825a"/>
+<rect x="160" y="108" width="5" height="5" fill="#d9825a"/>
+<rect x="175" y="108" width="5" height="5" fill="#d9825a"/>
+<rect x="185" y="108" width="5" height="5" fill="#d9825a"/>
+<rect x="115" y="113" width="5" height="5" fill="#d9825a"/>
+<rect x="130" y="113" width="5" height="5" fill="#d9825a"/>
+<rect x="140" y="113" width="5" height="5" fill="#d9825a"/>
+<rect x="165" y="113" width="5" height="5" fill="#d9825a"/>
+<rect x="175" y="113" width="5" height="5" fill="#d9825a"/>
+<rect x="190" y="113" width="5" height="5" fill="#d9825a"/>
+</g>
+<text x="155" y="136" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="middle">CS undergrad · JIIT Noida</text>
+<text x="155" y="153" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="middle">batch of 2028 · ~/anmol</text>
+<text x="316" y="40" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" font-weight="bold">Tips for getting started</text>
+<text x="316" y="58" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">Type <tspan fill="#b4a7f5">/projects</tspan> to see what he has built, or just read on.</text>
+<line x1="316" y1="70" x2="880" y2="70" stroke="#7a4a33" stroke-dasharray="3 3"/>
+<text x="316" y="90" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" font-weight="bold">What's new</text>
+<text x="316" y="108" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">BSERC internship wrapped (Jun–Jul 2026): capstone SkyWatch shipped.</text>
+<text x="316" y="125" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">pathwise — an AI learning-path recommender — in progress for a hackathon.</text>
+<text x="316" y="142" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">damage-claim-agent placed global #63 of 1,773 at HackerRank Orchestrate.</text>
+<text x="316" y="159" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a"><tspan fill="#b4a7f5">/experience</tspan> for more</text>
+<!-- notice -->
+<text x="8" y="190" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e8b75a">⚠ open to internships (summer 2027) · run <tspan fill="#b4a7f5">/contact</tspan></text>
+<!-- sent message, typed -->
+<rect x="0" y="204" width="900" height="26" fill="#3a3a3a"/>
+<text x="10" y="222" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#8a8a8a">›</text>
+<clipPath id="type"><rect x="24" y="204" width="0" height="26"><animate attributeName="width" from="0" to="220" dur="1.3s" begin="0.4s" fill="freeze" calcMode="discrete" values="0;8;16;24;32;40;48;56;64;72;80;88;96;104;112;120;128;136;144;152;160;168;176;184;192;200;208;216"/></rect></clipPath>
+<text x="26" y="222" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#ffffff" clip-path="url(#type)">tell me about anmol agarwal</text>
+<rect x="26" y="209" width="8" height="16" fill="#9a9a9a"><animate attributeName="x" values="26;34;42;50;58;66;74;82;90;98;106;114;122;130;138;146;154;162;170;178;186;194;202;210;218;226;234;242" dur="1.3s" begin="0.4s" fill="freeze" calcMode="discrete"/><animate attributeName="opacity" values="1;0" dur="0.1s" begin="1.9s" fill="freeze"/></rect>
+<!-- spinner -->
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.1s" begin="1.9s" fill="freeze"/>
+  <text x="8" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" class="spin">✻</text>
+  <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a"><tspan><animate attributeName="opacity" values="1;0;0;0" keyTimes="0;0.33;0.66;1" dur="2.4s" begin="1.9s" fill="freeze"/>Noodling…</tspan></text>
+  <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.33;0.66;1" dur="2.4s" begin="1.9s" fill="freeze"/>Pondering…</text>
+  <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.33;0.66;1" dur="2.4s" begin="1.9s" fill="freeze"/>Composing…</text>
+  <text x="120" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">(2.1s · ↓ 1.7k tokens · thinking with high effort)</text>
+  <text x="26" y="284" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">⎿  Tip: the full session lives at <tspan fill="#5fdf5f">portfolio-cli-eta.vercel.app</tspan></text>
+  <animate attributeName="opacity" values="1;0" dur="0.1s" begin="4.3s" fill="freeze"/>
+</g>
+<!-- answer -->
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="4.4s" fill="freeze"/>
+  <text x="8" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">●</text>
+  <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f"><tspan fill="#ffffff" font-weight="bold">Anmol Agarwal</tspan> is a CS undergrad at JIIT Noida (batch of 2028). He builds trading</text>
+  <text x="26" y="284" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">systems, AI agents and small embedded devices, and solves competitive-programming</text>
+  <text x="26" y="302" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">problems when the builds are green.</text>
+  <text x="26" y="326" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">Read <tspan fill="#ffffff" font-weight="bold">2</tspan> files, listed <tspan fill="#ffffff" font-weight="bold">1</tspan> directory, ran <tspan fill="#ffffff" font-weight="bold">0</tspan> shell commands</text>
+</g>
+<!-- status bar -->
+<line x1="8" y1="350" x2="892" y2="350" stroke="#4a4a4a" stroke-dasharray="3 3"/>
+<text x="8" y="370" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#f27089">▶▶ open to internships (summer 2027) <tspan fill="#9a9a9a">(shift+tab to cycle) · esc to interrupt · ← 1 visitor</tspan></text>
+<text x="892" y="370" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="end">/portfolio</text>
+</svg>

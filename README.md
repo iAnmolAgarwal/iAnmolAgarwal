@@ -1,66 +1,51 @@
-<div align="center">
+<a href="https://portfolio-cli-eta.vercel.app"><img src="assets/terminal.svg" width="100%" alt="anmol@portfolio — a terminal session. Anmol Agarwal is a CS undergrad at JIIT Noida (batch of 2028). He builds trading systems, AI agents and small embedded devices, and solves competitive-programming problems when the builds are green." /></a>
 
-<img src="assets/arc-reactor.svg" width="180" alt="arc reactor" />
+> The full session — typed prompt, spinner, `/projects`, `/stats`, the lot — runs at **[portfolio-cli-eta.vercel.app](https://portfolio-cli-eta.vercel.app)**.
 
-# Hi, I'm Anmol Agarwal
+## projects `/projects`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=CS+undergrad+%40+JIIT+'28;C%2B%2B+Competitive+Programmer;Building+AI+agents+with+Python;ESP32+tinkerer+on+the+side" alt="typing banner" />
+- **`Read(orb-trader)`** — crash-safe NSE intraday opening-range-breakout system for Zerodha Kite: software-managed brackets, atomic state, crash reconciliation, −3% kill-switch. Paper-trading only, no profit claims. 194 tests, written first. → [orb-trader](https://github.com/iAnmolAgarwal/orb-trader)
+- **`Read(damage-claim-agent)`** — vision-language agent that verifies damage claims from photos; perception stays blind to user history, the verdict lives in deterministic code, and a structural prompt-injection defence means an adversarial image can only degrade to *not enough information*. Solo, HackerRank Orchestrate — global #63 of 1,773. → [damage-claim-agent](https://github.com/iAnmolAgarwal/damage-claim-agent)
+- **`Read(whatsapp-notification-router)`** — routes each incoming message to notify / digest / mute, personalised to the recipient, over text, image posters and voice notes; one model call wrapped in deterministic Python, every claim measured against its own noise floor. Solo, HackerRank Orchestrate — global #63 of 1,983. → [whatsapp-notification-router](https://github.com/iAnmolAgarwal/whatsapp-notification-router)
+- **`Read(smart-e-nose)`** — ~$24 ESP32 electronic nose for food-spoilage detection: four-sensor MQ array, five-state firmware, Blynk + ThingSpeak + Telegram in parallel. Manuscript under review at *Sensors and Actuators Reports*. → [smart-e-nose](https://github.com/iAnmolAgarwal/smart-e-nose)
+- **`Read(pathwise)`** — AI-powered personalised learning-path recommender: a deterministic knowledge-graph + embedding engine decides what to learn and in what order; a Claude-API mentor explains each recommendation from the engine's own evidence. In progress for a judged hackathon — repo private until submission.
 
-</div>
+## experience `/experience`
 
-## About me
+- **Jun – Jul 2026 · Summer Intern, Bharat Space Education Research Centre (BSERC)** — 6-week applied space-technology program (generative AI, cybersecurity & digital forensics, UAV systems). Capstone: [skywatch](https://github.com/iAnmolAgarwal/skywatch), a real-time flight-telemetry pipeline on the live ADS-B feed with crash-safe atomic state, a hard alert-triage gate and deterministic incident replay — 79 tests, ~2,780 lines of Python.
+- **B.Tech CSE, Jaypee Institute of Information Technology, Noida** — expected May 2028 · CGPA 8.5/10.
 
-- **Competitive Programmer in C++** — I'm on [Codeforces](https://codeforces.com/profile/i_anmolagarwal) and [CodeChef](https://www.codechef.com/users/i_anmolagarwal) as `i_anmolagarwal`.
-- **AI agents that are mostly deterministic code around one model call** — [damage-claim-agent](https://github.com/iAnmolAgarwal/damage-claim-agent) verifies damage claims from photos with a vision-language model behind a rule layer and a structural prompt-injection defence; [whatsapp-notification-router](https://github.com/iAnmolAgarwal/whatsapp-notification-router) routes messages to notify / digest / mute across text, image and voice. Both were solo HackerRank Orchestrate submissions that placed **global #63**.
-- **Python systems where correctness matters** — [orb-trader](https://github.com/iAnmolAgarwal/orb-trader), a crash-safe Opening Range Breakout paper-trader for NSE options via Zerodha Kite (software brackets, crash reconciliation, hard risk limits), and [skywatch](https://github.com/iAnmolAgarwal/skywatch), real-time threat detection on ADS-B telemetry with a hybrid rule + ML pipeline and deterministic incident replay.
-- **Hardware and graphics on the side** — [smart-e-nose](https://github.com/iAnmolAgarwal/smart-e-nose), an ESP32 electronic nose for food-spoilage detection with cloud telemetry, and [thwip](https://github.com/iAnmolAgarwal/thwip), a first-person web-swinging game in a procedurally generated comic city built with Three.js — zero assets, everything generated at runtime.
+## competitive programming `/cp`
 
-## Currently building
+Codeforces Pupil (max 1362) · CodeChef 2★ (max 1565) · 242-day solving streak · 3,000+ problems · IICPC global #2,155 · BVCOE Coding Cup top 8 — as [`i_anmolagarwal`](https://codeforces.com/profile/i_anmolagarwal) on Codeforces and [CodeChef](https://www.codechef.com/users/i_anmolagarwal).
 
-**Pathwise** — an AI-powered personalised learning-path recommender, my entry for the AMPLIfied hackathon.
-
-## Tech stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=cplusplus" alt="C++" />
-<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=html5" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=css" alt="CSS" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/pandas-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=pandas" alt="pandas" />
-<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=numpy" alt="NumPy" />
-<img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=scikitlearn" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/pytest-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=pytest" alt="pytest" />
-<img src="https://img.shields.io/badge/Claude_API-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=anthropic" alt="Anthropic Claude API" />
-<img src="https://img.shields.io/badge/Zerodha_Kite-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7" alt="Zerodha Kite Connect" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/Three.js-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=threedotjs" alt="Three.js" />
-<img src="https://img.shields.io/badge/Vite-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=vite" alt="Vite" />
-<img src="https://img.shields.io/badge/ESP32-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=espressif" alt="ESP32" />
-<img src="https://img.shields.io/badge/Arduino-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=arduino" alt="Arduino" />
-<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=github" alt="GitHub" />
-</p>
-
-## GitHub stats
+## stack `/stack`
 
 <p>
-<img src="https://anmol-readme-stats.vercel.app/api?username=iAnmolAgarwal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github&hide=stars,prs,issues&line_height=40" alt="GitHub stats" />
-<img src="https://anmol-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=6&hide=plpgsql" alt="Top languages" />
+<img src="https://img.shields.io/badge/----c%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=5fdf5f&labelColor=000000&color=000000" alt="--c++" />
+<img src="https://img.shields.io/badge/----python-000000?style=flat-square&logo=python&logoColor=5fdf5f" alt="--python" />
+<img src="https://img.shields.io/badge/----typescript-000000?style=flat-square&logo=typescript&logoColor=5fdf5f" alt="--typescript" />
+<img src="https://img.shields.io/badge/----sql-000000?style=flat-square&logo=postgresql&logoColor=5fdf5f" alt="--sql" />
+<img src="https://img.shields.io/badge/----supabase-000000?style=flat-square&logo=supabase&logoColor=5fdf5f" alt="--supabase" />
+<img src="https://img.shields.io/badge/----esp32-000000?style=flat-square&logo=espressif&logoColor=5fdf5f" alt="--esp32" />
+<img src="https://img.shields.io/badge/----claude--api-000000?style=flat-square&logo=anthropic&logoColor=d9825a" alt="--claude-api" />
+<img src="https://img.shields.io/badge/----claude--code-000000?style=flat-square&logo=anthropic&logoColor=d9825a" alt="--claude-code" />
+<img src="https://img.shields.io/badge/----tdd-000000?style=flat-square&logo=pytest&logoColor=5fdf5f" alt="--tdd" />
+<img src="https://img.shields.io/badge/----git-000000?style=flat-square&logo=git&logoColor=5fdf5f" alt="--git" />
+<img src="https://img.shields.io/badge/----vercel-000000?style=flat-square&logo=vercel&logoColor=5fdf5f" alt="--vercel" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&theme=tokyonight&hide_border=true&background=1a1b27&date_format=M+j%5B%2C+Y%5D&card_width=780" alt="Streak stats" />
-
-## Contact
+## stats `/stats`
 
 <p>
-<a href="https://github.com/iAnmolAgarwal"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/anmolagarwal26"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdhYTJmNyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDctLjkgMS42My0xLjg1IDMuMzYtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ1djYuMjl6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-<a href="mailto:anmolagarwal2625+github@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=gmail" alt="Email" /></a>
-<a href="https://codeforces.com/profile/i_anmolagarwal"><img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=codeforces" alt="Codeforces" /></a>
-<a href="https://www.codechef.com/users/i_anmolagarwal"><img src="https://img.shields.io/badge/CodeChef-1a1b27?style=for-the-badge&color=1a1b27&logoColor=7aa2f7&logo=codechef" alt="CodeChef" /></a>
+<img src="https://anmol-readme-stats.vercel.app/api?username=iAnmolAgarwal&show_icons=true&hide_border=true&bg_color=000000&title_color=d9825a&text_color=5fdf5f&icon_color=d9825a&ring_color=d9825a&rank_icon=github&hide=stars,prs,issues&line_height=40" alt="GitHub stats" />
+<img src="https://anmol-readme-stats.vercel.app/api/top-langs/?username=iAnmolAgarwal&layout=compact&hide_border=true&bg_color=000000&title_color=d9825a&text_color=5fdf5f&langs_count=6&hide=plpgsql" alt="Top languages" />
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iAnmolAgarwal&hide_border=true&background=000000&ring=d9825a&fire=d9825a&currStreakNum=ffffff&currStreakLabel=5fdf5f&sideNums=5fdf5f&sideLabels=9a9a9a&dates=6f6f6f&stroke=3a3a3a&date_format=M+j%5B%2C+Y%5D&card_width=780" alt="Streak stats" />
+
+## contact `/contact`
+
+[github.com/iAnmolAgarwal](https://github.com/iAnmolAgarwal) · [linkedin.com/in/anmolagarwal26](https://www.linkedin.com/in/anmolagarwal26) · [anmolagarwal2625+github@gmail.com](mailto:anmolagarwal2625+github@gmail.com) · [codeforces](https://codeforces.com/profile/i_anmolagarwal) · [codechef](https://www.codechef.com/users/i_anmolagarwal) · [portfolio](https://portfolio-cli-eta.vercel.app)
+
+<sub>✻ Worked for 3s · ※ recap: builds things that must not fail silently. <b>open to internships (summer 2027)</b>.</sub>
