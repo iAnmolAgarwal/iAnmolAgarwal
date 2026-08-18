@@ -17,7 +17,7 @@
 
 ## competitive programming `/cp`
 
-Codeforces Pupil (max 1362) · CodeChef 2★ (max 1565) · 242-day solving streak · 3,000+ problems · IICPC global #2,155 · BVCOE Coding Cup top 8 — as [`i_anmolagarwal`](https://codeforces.com/profile/i_anmolagarwal) on Codeforces and [CodeChef](https://www.codechef.com/users/i_anmolagarwal).
+Codeforces Pupil (max 1362) · CodeChef 2★ (max 1565) · 242-day solving streak · 3,000+ problems · IICPC global #2,155 · BVCOE Coding Cup top 8 — as [`i_anmolagarwal`](https://codeforces.com/profile/i_anmolagarwal) on [CodeForces](https://codeforces.com/profile/i_anmolagarwal) and [CodeChef](https://www.codechef.com/users/i_anmolagarwal).
 
 ## stack `/stack`
 
