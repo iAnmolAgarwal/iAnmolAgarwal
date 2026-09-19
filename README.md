@@ -7,4 +7,4 @@ Third-year CS student at JIIT Noida. I like to compete and develop solutions in 
 
 Codeforces Specialist — [`i_anmolagarwal`](https://codeforces.com/profile/i_anmolagarwal).
 
-Open to summer 2027 internships — [anmolagarwal2625@gmail.com](mailto:anmolagarwal2625@gmail.com) · [LinkedIn](https://linkedin.com/in/anmolagarwal26) · [anmolagarwal.vercel.app](https://anmolagarwal.vercel.app)
+Open to summer 2027 internships — [anmolagarwal2625@gmail.com](mailto:anmolagarwal2625@gmail.com) · [LinkedIn](https://linkedin.com/in/anmolagarwal26)
