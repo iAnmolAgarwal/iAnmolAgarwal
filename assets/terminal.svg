@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-label="anmol@portfolio — a terminal session: tell me about anmol agarwal">
+<title>anmol@portfolio — a terminal session</title>
+<desc>Third-year CS student at JIIT Noida. I like to compete and develop solutions in hackathons. Competitive Programmer (C++).</desc>
 <style>
   .sway { transform-origin: 155px 52px; animation: sway 3.8s ease-in-out infinite; }
   @keyframes sway { 0%,100% { transform: rotate(-2.5deg) } 50% { transform: rotate(2.5deg) } }
@@ -84,15 +86,15 @@
 <rect x="175" y="113" width="5" height="5" fill="#d9825a"/>
 <rect x="190" y="113" width="5" height="5" fill="#d9825a"/>
 </g>
-<text x="155" y="136" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="middle">CS undergrad · JIIT Noida</text>
+<text x="155" y="136" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="middle">CS student · JIIT Noida</text>
 <text x="155" y="153" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="middle">batch of 2028 · ~/anmol</text>
 <text x="316" y="40" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" font-weight="bold">Tips for getting started</text>
 <text x="316" y="58" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">Type <tspan fill="#b4a7f5">/projects</tspan> to see what he has built, or just read on.</text>
 <line x1="316" y1="70" x2="880" y2="70" stroke="#7a4a33" stroke-dasharray="3 3"/>
 <text x="316" y="90" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" font-weight="bold">What's new</text>
-<text x="316" y="108" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">BSERC internship wrapped (Jun–Jul 2026): capstone SkyWatch shipped.</text>
-<text x="316" y="125" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">pathwise — an AI learning-path recommender — in progress for a hackathon.</text>
-<text x="316" y="142" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">damage-claim-agent placed global #63 of 1,773 at HackerRank Orchestrate.</text>
+<text x="316" y="108" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">#6 of 3,062 — HackerRank Orchestrate (Sep 2026)</text>
+<text x="316" y="125" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">pathwise won HCLTech AMPLIfied — #1 of 4,500+</text>
+<text x="316" y="142" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">1st place — KIET CODE RUSH 3.0</text>
 <text x="316" y="159" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a"><tspan fill="#b4a7f5">/experience</tspan> for more</text>
 <!-- notice -->
 <text x="8" y="190" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#e8b75a">⚠ open to internships (summer 2027) · run <tspan fill="#b4a7f5">/contact</tspan></text>
@@ -109,19 +111,19 @@
   <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.33;0.66;1" dur="2.4s" begin="1.9s" fill="freeze"/>Pondering…</text>
   <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#d9825a" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.33;0.66;1" dur="2.4s" begin="1.9s" fill="freeze"/>Composing…</text>
   <text x="120" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">(2.1s · ↓ 1.7k tokens · thinking with high effort)</text>
-  <text x="26" y="284" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">⎿  Tip: the full session lives at <tspan fill="#5fdf5f">portfolio-cli-eta.vercel.app</tspan></text>
+  <text x="26" y="284" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">⎿  Tip: the full session lives at <tspan fill="#5fdf5f">anmolagarwal.vercel.app</tspan></text>
   <animate attributeName="opacity" values="1;0" dur="0.1s" begin="4.3s" fill="freeze"/>
 </g>
 <!-- answer -->
 <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.2s" begin="4.4s" fill="freeze"/>
   <text x="8" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">●</text>
-  <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f"><tspan fill="#ffffff" font-weight="bold">Anmol Agarwal</tspan> is a CS undergrad at JIIT Noida (batch of 2028). He builds trading</text>
-  <text x="26" y="284" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">systems, AI agents and small embedded devices, and solves competitive-programming</text>
-  <text x="26" y="302" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">problems when the builds are green.</text>
-  <text x="26" y="326" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">Read <tspan fill="#ffffff" font-weight="bold">2</tspan> files, listed <tspan fill="#ffffff" font-weight="bold">1</tspan> directory, ran <tspan fill="#ffffff" font-weight="bold">0</tspan> shell commands</text>
+  <text x="26" y="266" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f"><tspan fill="#ffffff" font-weight="bold">Third-year CS student</tspan> at JIIT Noida.</text>
+  <text x="26" y="284" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">I like to compete and develop solutions in hackathons.</text>
+  <text x="26" y="302" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#5fdf5f">Competitive Programmer (C++).</text>
+  <text x="26" y="326" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a">⎿  the full session lives at <tspan fill="#5fdf5f">anmolagarwal.vercel.app</tspan></text>
 </g>
 <!-- status bar -->
 <line x1="8" y1="350" x2="892" y2="350" stroke="#4a4a4a" stroke-dasharray="3 3"/>
-<text x="8" y="370" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#f27089">▶▶ open to internships (summer 2027) <tspan fill="#9a9a9a">(shift+tab to cycle) · esc to interrupt · ← 1 visitor</tspan></text>
+<text x="8" y="370" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#f27089">▶▶ open to internships (summer 2027) <tspan fill="#9a9a9a">(shift+tab to cycle) · esc to interrupt</tspan></text>
 <text x="892" y="370" font-family="Menlo, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#9a9a9a" text-anchor="end">/portfolio</text>
 </svg>
