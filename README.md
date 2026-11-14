@@ -1,1 +1,6 @@
-<a href="https://anmolagarwal.vercel.app"><img src="assets/terminal.svg" width="100%" alt="Anmol Agarwal — third-year CS student at JIIT Noida. Likes to compete and build in hackathons: #1 at HCLTech AMPLIfied, #6 of 3,062 at HackerRank Orchestrate. Competitive Programmer (C++), Codeforces Specialist. Click to open the portfolio." /></a>
+<a href="https://anmolagarwal.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <img src="assets/banner-light.svg" width="100%" alt="Anmol Agarwal. Open to Summer 2027 SWE internships. A line-drawn television playing my projects Studio, Worth and Pathwise as channels, beside my results: #1 at HCLTech AMPLIfied, #6 at HackerRank Orchestrate, #66 in the Amazon ML Challenge, Codeforces Specialist. Click to open my portfolio." />
+  </picture>
+</a>
